@@ -7,6 +7,5 @@ public class App {
         theHobbit.setYearOfPublishing(1937);
 
         System.out.println(theHobbit);
-        // Оставлено сугубо для проверки. Прошу не обращать внимания.
     }
 }
